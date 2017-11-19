@@ -12,10 +12,5 @@
     "menuitemInvertAll": {
         "message": "Invert",
         "description": "Invert selection"
-    },
-
-    "crossDomain": {
-        "message": "A web-browser permits scripts contained in a first web page to access data in a second web page, but only if both web pages have the same origin",
-        "description": "See: https://en.wikipedia.org/wiki/Same-origin_policy"
     }
 }
