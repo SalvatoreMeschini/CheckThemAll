@@ -1,0 +1,44 @@
+{
+
+    "manifest_version": 2,
+    "name": "CheckThemAll",
+    "version": "1.3a",
+    "default_locale": "en",
+    "description": "CheckThemAll allows you to quickly check/uncheck/invert all the checkboxes contained in a selection",
+    "homepage_url": "https://github.com/SalvatoreMeschini/CheckThemAll",
+    "applications": {
+        "gecko": {
+            "strict_min_version": "57.0"
+        }
+    },
+
+    "background": {
+        "scripts": ["src/background.js"]
+    },
+
+    "content_scripts": [{
+        "matches": ["<all_urls>"],
+        "js": ["src/content-script.js"],
+        "run_at": "document_idle"
+    }],
+
+    "options_ui": {
+        "page": "src/settings.html"
+    },
+
+    "permissions": [
+        "menus",
+        "activeTab",
+        "contextMenus",
+        "notifications",
+        "storage",
+        "tabs",
+        "<all_urls>"
+    ],
+
+    "icons": {
+        "48": "icons/48x48.png",
+        "32": "icons/32x32.png",
+        "16": "icons/16x16.png"
+    }
+}
