@@ -2,13 +2,13 @@
 
     "manifest_version": 2,
     "name": "CheckThemAll",
-    "version": "1.3a",
+    "version": "1.4",
     "default_locale": "en",
     "description": "CheckThemAll allows you to quickly check/uncheck/invert all the checkboxes contained in a selection",
     "homepage_url": "https://github.com/SalvatoreMeschini/CheckThemAll",
     "applications": {
         "gecko": {
-            "strict_min_version": "57.0"
+            "strict_min_version": "56.0"
         }
     },
 
