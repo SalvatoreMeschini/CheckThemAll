@@ -1,16 +1,16 @@
 {
     "menuitemCheckAll": {
-        "message": "Check all",
-        "description": "Check all of them"
+        "message": "Check selected",
+        "description": "Check all checkboxes contained in the current selection"
     },
 
     "menuitemUnCheckAll": {
-        "message": "Uncheck all",
-        "description": "Uncheck all of them"
+        "message": "Uncheck selected",
+        "description": "Uncheck all checkboxes contained in the current selection"
     },
 
     "menuitemInvertAll": {
         "message": "Invert",
-        "description": "Invert selection"
+        "description": "Invert checkboxes contained in the current selection"
     }
 }
