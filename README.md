@@ -8,7 +8,7 @@ This add-on allows to check / uncheck / invert checkboxes contained in the curre
 **NOTES**: 
 * CheckThemAll does not work with checkboxes in external iframes
 * CheckThemAll requires you to create a selection around the checkboxes that you want to check/uncheck/invert before choosing what to do with them
-* CheckThemAll can't work with items that look like checkboxes but actually are a different thing (i.e. Gmail)
+* CheckThemAll can't work with items that look like checkboxes but actually are a "different thing" (i.e. Gmail)
 
 ## Installation
 
