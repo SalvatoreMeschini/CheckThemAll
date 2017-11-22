@@ -16,7 +16,7 @@ This add-on requires Firefox 57+ and it can be installed from: https://addons.mo
 
 ## How to use it
 
-![CheckThemAll screenshot](https://github.com/SalvatoreMeschini/CheckThemAll/blob/master/icons/CheckThemAll.png)
+![CheckThemAll screenshot](https://github.com/SalvatoreMeschini/CheckThemAll/blob/master/icons/Screenshot-EN.png)
 
 1. Select an area containing the checkboxes that you want to check / uncheck / invert
 2. Right-click and then click CheckThemAll
