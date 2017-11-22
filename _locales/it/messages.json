@@ -1,11 +1,11 @@
 {
     "menuitemCheckAll": {
-        "message": "Seleziona tutto",
+        "message": "Seleziona",
         "description": "Aggiunge un segno di spunta a tutti i checkbox selezionati"
     },
 
     "menuitemUnCheckAll": {
-        "message": "Deseleziona tutto",
+        "message": "Deseleziona",
         "description": "Rimuove il segno di spunta da tutti i checkbox selezionati"
     },
 
