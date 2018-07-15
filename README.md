@@ -1,18 +1,19 @@
-![CheckThemAll logo](https://github.com/SalvatoreMeschini/CheckThemAll/blob/master/icons/Icon.png)
-
 # CheckThemAll
+
+![CheckThemAll logo](https://github.com/SalvatoreMeschini/CheckThemAll/blob/master/icons/Icon.png)
 
 Firefox add-on based on the WebExtensions API
 This add-on allows to check / uncheck / invert checkboxes contained in the current selection.
 
-**NOTES**: 
+**NOTES**:
+
 * CheckThemAll does not work with checkboxes in external iframes
 * CheckThemAll requires you to create a selection around the checkboxes that you want to check/uncheck/invert before choosing what to do with them
 * CheckThemAll can't work with items that look like checkboxes but actually are a "different thing" (i.e. Gmail)
 
 ## Installation
 
-This add-on requires Firefox 57+ and it can be installed from: https://addons.mozilla.org/en-US/firefox/addon/checkthemall/
+This add-on requires Firefox 57+ and it can be installed from: [https://addons.mozilla.org/en-US/firefox/addon/checkthemall/](https://addons.mozilla.org/en-US/firefox/addon/checkthemall/)
 
 ## How to use it
 
