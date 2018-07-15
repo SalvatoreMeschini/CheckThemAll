@@ -1,6 +1,6 @@
 # CheckThemAll
 
-![CheckThemAll logo](https://github.com/SalvatoreMeschini/CheckThemAll/blob/master/icons/Icon.png)
+![CheckThemAll logo](img/Icon.png)
 
 Firefox add-on based on the WebExtensions API
 This add-on allows to check / uncheck / invert checkboxes contained in the current selection.
@@ -17,7 +17,7 @@ This add-on requires Firefox 57+ and it can be installed from: [https://addons.m
 
 ## How to use it
 
-![CheckThemAll screenshot](https://github.com/SalvatoreMeschini/CheckThemAll/blob/master/icons/Screenshot-EN.png)
+![CheckThemAll screenshot](img/Screenshot-EN.png)
 
 1. Select an area containing the checkboxes that you want to check / uncheck / invert
 2. Right-click and then click CheckThemAll
